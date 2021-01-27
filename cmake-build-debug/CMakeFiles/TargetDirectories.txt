@@ -1,0 +1,3 @@
+C:/Users/chhhh/CLionProjects/talkserver/cmake-build-debug/CMakeFiles/talkserver.dir
+C:/Users/chhhh/CLionProjects/talkserver/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chhhh/CLionProjects/talkserver/cmake-build-debug/CMakeFiles/rebuild_cache.dir
